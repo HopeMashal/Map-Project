@@ -65,8 +65,7 @@ export default function App() {
               <center>
                 <img src={selectedPlace.images[0]} alt="place" width="200px"/>
                 <h2>{selectedPlace.name}</h2>
-                <h6>Holy place in {selectedPlace.religions[0]} {selectedPlace.religions[1]?`& ${selectedPlace.religions[1]}` :null}  {selectedPlace.religions[2]?`& ${selectedPlace.religions[2]}` :null}</h6>
-                <p></p>
+                <p style={{fontSize:'10px'}}><b>Holy place in {selectedPlace.religions[0]} {selectedPlace.religions[1]?`& ${selectedPlace.religions[1]}` :null}  {selectedPlace.religions[2]?`& ${selectedPlace.religions[2]}` :null}</b></p>
               </center>
             </div>
           </Popup>
