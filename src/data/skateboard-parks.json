@@ -1,0 +1,349 @@
+{
+  "features":[
+    {
+      "PLACE_ID":1,
+      "name": "Western Wall",
+      "city": "Jerusalem",
+      "religions": ["Judaism", "Islam"],
+      "coordinates": [31.7767349, 35.2344611],
+      "urls": [
+        {
+          "link": "https://he.wikipedia.org/wiki/%D7%94%D7%9B%D7%95%D7%AA%D7%9C_%D7%94%D7%9E%D7%A2%D7%A8%D7%91%D7%99",
+          "date": "10-01-2021",
+          "scraping": [".mw-parser-output > p"]
+        },
+        {
+          "link": "https://en.wikipedia.org/wiki/Western_Wall",
+          "date": "10-01-2021",
+          "scraping": []
+        }
+      ],
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/%D7%94%D7%9B%D7%95%D7%AA%D7%9C_%D7%94%D7%9E%D7%A2%D7%A8%D7%91%D7%99_%D7%91%D7%97%D7%A0%D7%95%D7%9B%D7%94.jpg/450px-%D7%94%D7%9B%D7%95%D7%AA%D7%9C_%D7%94%D7%9E%D7%A2%D7%A8%D7%91%D7%99_%D7%91%D7%97%D7%A0%D7%95%D7%9B%D7%94.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/26/Kotel_stones.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Jerusalem_Western_Wall_Isaiah_verse_closeup.jpg/1024px-Jerusalem_Western_Wall_Isaiah_verse_closeup.jpg"
+      ]
+    },
+    {
+      "PLACE_ID":2,
+      "name": "Church of the Holy Sepulchre",
+      "city": "Jerusalem",
+      "religions": ["Christianity"],
+      "coordinates": [31.7783522, 35.2297623],
+      "urls": [
+        {
+          "link": "https://he.wikipedia.org/wiki/%D7%9B%D7%A0%D7%A1%D7%99%D7%99%D7%AA_%D7%94%D7%A7%D7%91%D7%A8",
+          "date": "",
+          "scraping": []
+        },
+        {
+          "link": "https://en.wikipedia.org/wiki/Church_of_the_Holy_Sepulchre",
+          "date": "",
+          "scraping": []
+        }
+      ],
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Church_of_the_Holy_Sepulchre_by_Gerd_Eichmann_%28cropped%29.jpg/1280px-Church_of_the_Holy_Sepulchre_by_Gerd_Eichmann_%28cropped%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/d/dd/Rotunda%2C_Adomanan_de_locis_santis.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Saint-S%C3%A9pulcre_%28plan_d%27Arculfe%29.jpg/1280px-Saint-S%C3%A9pulcre_%28plan_d%27Arculfe%29.jpg"
+      ]
+    },
+    {
+      "PLACE_ID":3,
+      "name": "Russian Orthodox Ecclesiastical Mission",
+      "city": "Jerusalem",
+      "religions": ["Christianity"],
+      "coordinates": [31.7806268, 35.2231395],
+      "urls": [
+        {
+          "link": "https://he.wikipedia.org/wiki/%D7%9E%D7%A0%D7%96%D7%A8_%D7%92%D7%95%D7%A8%D7%A0%D7%99",
+          "date": "",
+          "scraping": []
+        },
+        {
+          "link": "https://en.wikipedia.org/wiki/Russian_Orthodox_Ecclesiastical_Mission_in_Jerusalem",
+          "date": "",
+          "scraping": []
+        }
+      ],
+      "images": [
+        "https://rusdm.ru/pictures/c/202007/1594049677.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/%D7%9E%D7%A0%D7%96%D7%A8_%D7%92%D7%95%D7%A8%D7%A0%D7%99_%D7%A2%D7%99%D7%9F_%D7%9B%D7%A8%D7%9D_%D7%9E%D7%91%D7%98_%D7%A2%D7%9C.jpg/800px-%D7%9E%D7%A0%D7%96%D7%A8_%D7%92%D7%95%D7%A8%D7%A0%D7%99_%D7%A2%D7%99%D7%9F_%D7%9B%D7%A8%D7%9D_%D7%9E%D7%91%D7%98_%D7%A2%D7%9C.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/%22Moscovia%22_Monastery%3B_Ein_Kerem_-_Jerusalem_%286567827713%29.jpg/1280px-%22Moscovia%22_Monastery%3B_Ein_Kerem_-_Jerusalem_%286567827713%29.jpg"
+      ]
+    },
+    {
+      "PLACE_ID":4,
+      "name": "Dome of the Rock",
+      "city": "Jerusalem",
+      "religions": ["Judaism", "Islam"],
+      "coordinates": [31.7779986, 35.235395],
+      "urls": [
+        {
+          "link": "https://he.wikipedia.org/wiki/%D7%9B%D7%99%D7%A4%D7%AA_%D7%94%D7%A1%D7%9C%D7%A2",
+          "date": "",
+          "scraping": []
+        },
+        {
+          "link": "https://en.wikipedia.org/wiki/Dome_of_the_Rock",
+          "date": "",
+          "scraping": []
+        }
+      ],
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Jerusalem-2013%282%29-Temple_Mount-Dome_of_the_Rock_%28SE_exposure%29.jpg/1280px-Jerusalem-2013%282%29-Temple_Mount-Dome_of_the_Rock_%28SE_exposure%29.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Jerusalem_Tempelberg_Felsendom_01.JPG/1920px-Jerusalem_Tempelberg_Felsendom_01.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Dome_of_the_Rock_-_East.jpg/1280px-Dome_of_the_Rock_-_East.jpg"
+      ]
+    },
+    {
+      "PLACE_ID":5,
+      "name": "Cathedral of Saint James",
+      "city": "Jerusalem",
+      "religions": ["Christianity"],
+      "coordinates": [31.7745196, 35.2291442],
+      "urls": [
+        {
+          "link": "https://he.wikipedia.org/wiki/%D7%A7%D7%AA%D7%93%D7%A8%D7%9C%D7%AA_%D7%99%D7%A2%D7%A7%D7%91_%D7%94%D7%A7%D7%93%D7%95%D7%A9",
+          "date": "",
+          "scraping": []
+        },
+        {
+          "link": "https://en.wikipedia.org/wiki/Cathedral_of_Saint_James,_Jerusalem",
+          "date": "",
+          "scraping": []
+        }
+      ],
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Inside_Saint_James_Cathedral_in_the_Armenian_Quarter_of_Jerusalem.jpg/1280px-Inside_Saint_James_Cathedral_in_the_Armenian_Quarter_of_Jerusalem.jpg",
+        "https://upload.wikimedia.org/wikipedia/he/5/5d/Armeni4.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/3/3a/St_James_Jerusalem.jpg"
+      ]
+    },
+    {
+      "PLACE_ID":6,
+      "name": "Qumran",
+      "city": "Dead Sea",
+      "religions": ["Judaism"],
+      "coordinates": [31.0582088, 35.0359915],
+      "urls": [
+        {
+          "link": "https://he.wikipedia.org/wiki/%D7%A7%D7%95%D7%9E%D7%A8%D7%90%D7%9F",
+          "date": "",
+          "scraping": []
+        },
+        {
+          "link": "https://en.wikipedia.org/wiki/Qumran",
+          "date": "",
+          "scraping": []
+        }
+      ],
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/QumranLivingQuarters.jpg/1280px-QumranLivingQuarters.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Qumraan014.JPG/1280px-Qumraan014.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Khirbet_Qumr%C4%81n_9.jpg/1280px-Khirbet_Qumr%C4%81n_9.jpg"
+      ]
+    },
+    {
+      "PLACE_ID":7,
+      "name": "Bahai World Centre",
+      "city": "Haifa",
+      "religions": ["Bahai"],
+      "coordinates": [32.812984466552734, 34.98710632324219],
+      "urls": [
+        {
+          "link": "https://he.wikipedia.org/wiki/%D7%94%D7%9E%D7%A8%D7%9B%D7%96_%D7%94%D7%91%D7%94%D7%90%D7%99_%D7%94%D7%A2%D7%95%D7%9C%D7%9E%D7%99",
+          "date": "",
+          "scraping": []
+        },
+        {
+          "link": "https://ar.wikipedia.org/wiki/%D8%AD%D8%AF%D8%A7%D8%A6%D9%82_%D8%A7%D9%84%D8%A8%D9%87%D8%A7%D8%A6%D9%8A%D9%8A%D9%86",
+          "date": "",
+          "scraping": []
+        },
+        {
+          "link": "https://en.wikipedia.org/wiki/Bah%C3%A1%CA%BC%C3%AD_World_Centre",
+          "date": "",
+          "scraping": []
+        }
+      ],
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/The_Bahai_Temple_in_Haifa_Israel.jpg/1280px-The_Bahai_Temple_in_Haifa_Israel.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Baha%27i_arc_from_archives.jpg/1280px-Baha%27i_arc_from_archives.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Bahai_Garden_in_Haifa_Israel.jpg/1920px-Bahai_Garden_in_Haifa_Israel.jpg"
+      ]
+    },
+    {
+      "PLACE_ID":8,
+      "name": "Al Istiqlal Mosque",
+      "city": "Haifa",
+      "religions": ["Islam"],
+      "coordinates": [32.8126721, 35.0038724],
+      "urls": [
+        {
+          "link": "https://www.wikipe.wiki/wiki/ar/%D9%85%D8%B3%D8%AC%D8%AF_%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84_(%D8%AD%D9%8A%D9%81%D8%A7)",
+          "date": "",
+          "scraping": []
+        },
+        {
+          "link": "https://www.visit-haifa.org/%D7%9E%D7%A1%D7%92%D7%93_%D7%90%D7%9C_%D7%90%D7%99%D7%A1%D7%AA%D7%A7%D7%9C%D7%90%D7%9C",
+          "date": "",
+          "scraping": []
+        }
+      ],
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PikiWiki_Israel_9545_Al-Itiqlal_Mosque_Haifa_Israel.jpg/547px-PikiWiki_Israel_9545_Al-Itiqlal_Mosque_Haifa_Israel.jpg",
+        "https://th.bing.com/th/id/OIP.VCc_QhLN4WYPOjTiO1RCAQHaFj?pid=ImgDet&rs=1"
+      ]
+    },
+    {
+      "PLACE_ID":9,
+      "name": "Capernaum",
+      "city": "Kfar Naḥum",
+      "religions": ["Judaism", "Christianity"],
+      "coordinates": [32.8807342, 35.5754258],
+      "urls": [
+        {
+          "link": "https://he.wikipedia.org/wiki/%D7%9B%D7%A4%D7%A8_%D7%A0%D7%97%D7%95%D7%9D",
+          "date": "",
+          "scraping": []
+        },
+        {
+          "link": "https://en.wikipedia.org/wiki/Capernaum",
+          "date": "",
+          "scraping": []
+        }
+      ],
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Sites_of_Christianity_in_the_Galillee_-_Ruins_of_the_ancient_Great_Synagogue_at_Capernaum_%28or_Kfar_Nahum%29_on_the_shore_of_the_Lake_of_Galilee%2C_Northern_Israel.jpg/1280px-thumbnail.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Ancient_synagogue_remains.JPG/1280px-Ancient_synagogue_remains.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Capernaum_roman_olive_press_by_David_Shankbone.jpg/1280px-Capernaum_roman_olive_press_by_David_Shankbone.jpg"
+      ]
+    },
+    {
+      "PLACE_ID":10,
+      "name": "Nabi Shu'ayb",
+      "city": "Tiberias",
+      "religions": ["Druze"],
+      "coordinates": [32.8106577, 35.4637873],
+      "urls": [
+        {
+          "link": "https://he.wikipedia.org/wiki/%D7%9E%D7%AA%D7%97%D7%9D_%D7%A0%D7%91%D7%99_%D7%A9%D7%95%D7%A2%D7%99%D7%99%D7%91",
+          "date": "",
+          "scraping": []
+        },
+        {
+          "link": "https://en.wikipedia.org/wiki/Nabi_Shu%27ayb",
+          "date": "",
+          "scraping": []
+        },
+        {
+          "link": "https://ar.wikipedia.org/wiki/%D9%85%D9%82%D8%A7%D9%85_%D8%A7%D9%84%D9%86%D8%A8%D9%8A_%D8%B4%D8%B9%D9%8A%D8%A8_(%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84)",
+          "date": "",
+          "scraping": []
+        }
+      ],
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/PikiWiki_Israel_6935_In_the_holy_place_of_jethro.jpg/1280px-PikiWiki_Israel_6935_In_the_holy_place_of_jethro.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/PikiWiki_Israel_45144_Nabi_Shuayb.JPG/1280px-PikiWiki_Israel_45144_Nabi_Shuayb.JPG",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/PikiWiki_Israel_48146_Jethros_grave.JPG/1280px-PikiWiki_Israel_48146_Jethros_grave.JPG"
+      ]
+    },
+    {
+      "PLACE_ID":11,
+      "name": "Tomb of Maimonides",
+      "city": "Tiberias",
+      "religions": ["Judaism"],
+      "coordinates": [32.79, 35.537222],
+      "urls": [
+        {
+          "link": "https://he.wikipedia.org/wiki/%D7%A7%D7%91%D7%A8_%D7%94%D7%A8%D7%9E%D7%91%22%D7%9D",
+          "date": "",
+          "scraping": []
+        },
+        {
+          "link": "https://en.wikipedia.org/wiki/Tomb_of_Maimonides",
+          "date": "",
+          "scraping": []
+        }
+      ],
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Keverambam.jpg/1280px-Keverambam.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/1/15/Tomb_of_Rambam_1935.jpg",
+        "https://upload.wikimedia.org/wikipedia/he/2/2a/Rambam_Tomb_ca1952.jpg"
+      ]
+    },
+    {
+      "PLACE_ID":12,
+      "name": "St. Peter's Church",
+      "city": "Tiberias",
+      "religions": ["Christianity"],
+      "coordinates": [32.79221, 35.53124],
+      "urls": [
+        {
+          "link": "https://he.wikipedia.org/wiki/%D7%9B%D7%A0%D7%A1%D7%99%D7%99%D7%AA_%D7%A4%D7%98%D7%A8%D7%95%D7%A1_%D7%94%D7%A7%D7%93%D7%95%D7%A9_(%D7%98%D7%91%D7%A8%D7%99%D7%94)",
+          "date": "",
+          "scraping": []
+        },
+        {
+          "link": "https://en.wikipedia.org/wiki/St._Peter%27s_Church,_Tiberias",
+          "date": "",
+          "scraping": []
+        }
+      ],
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/St_peters_tiberias_1.jpg/1280px-St_peters_tiberias_1.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/St_peters_tiberias_4.jpg/1280px-St_peters_tiberias_4.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/St_peters_tiberias_6.jpg/800px-St_peters_tiberias_6.jpg"
+      ]
+    },
+    {
+      "PLACE_ID":13,
+      "name": "Cave of the Patriarchs",
+      "city": "Old City of Hebron",
+      "religions": ["Christianity", "Islam", "Judaism"],
+      "coordinates": [31.5246376, 35.1108717],
+      "urls": [
+        {
+          "link": "https://he.wikipedia.org/wiki/%D7%9E%D7%A2%D7%A8%D7%AA_%D7%94%D7%9E%D7%9B%D7%A4%D7%9C%D7%94",
+          "date": "",
+          "scraping": []
+        },
+        {
+          "link": "https://en.wikipedia.org/wiki/Cave_of_the_Patriarchs",
+          "date": "",
+          "scraping": []
+        }
+      ],
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Hebron_Cave_of_the_Patriarchs.jpg/1280px-Hebron_Cave_of_the_Patriarchs.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/e/e0/Mozaica_maarat_hamacpela.jpg",
+        "https://upload.wikimedia.org/wikipedia/he/thumb/d/de/%D7%9E%D7%A2%D7%A8%D7%AA_%D7%9E%D7%9B%D7%A4%D7%9C%D7%94_%D7%9C%D7%99%D7%9C%D7%94_2.JPG/1280px-%D7%9E%D7%A2%D7%A8%D7%AA_%D7%9E%D7%9B%D7%A4%D7%9C%D7%94_%D7%9C%D7%99%D7%9C%D7%94_2.JPG"
+      ]
+    },
+    {
+      "PLACE_ID":14,
+      "name": "Bethlehem",
+      "city": "Bethlehem",
+      "religions": ["Christianity", "Islam", "Judaism"],
+      "coordinates": [31.7043556, 35.2061876],
+      "urls": [
+        {
+          "link": "https://he.wikipedia.org/wiki/%D7%91%D7%99%D7%AA_%D7%9C%D7%97%D7%9D",
+          "date": "",
+          "scraping": []
+        },
+        {
+          "link": "https://en.wikipedia.org/wiki/Bethlehem",
+          "date": "",
+          "scraping": []
+        }
+      ],
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/3/39/Bethlehem_collage.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/f/f4/BethlehemInsideCN.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/e/e4/A._Salzmann_-_Beit-Lehem.jpg"
+      ]
+    }
+  ]
+}
